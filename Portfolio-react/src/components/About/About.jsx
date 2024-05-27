@@ -36,17 +36,26 @@ const About = () => {
                      <p>Python</p>
                      <hr style={{width:"60%"}}/>
                    </div>
+                   <div className="about-skill">
+                     <p>C & C++</p>
+                     <hr style={{width:"70%"}}/>
+                   </div>
                  </div>
             </div>
         </div>
          <div className="about-achievements">
            <div className="about-achievement">
              <h1>10+</h1>
-             <p>PROJECT COMPLETED</p>
+             <p>ACHIEMENTS</p>
            </div>
            <hr />
            <div className="about-achievement">
-             <h1>20+</h1>
+             <h1>100+</h1>
+             <p>COMPLETE LESSION</p>
+           </div>
+           <hr />
+           <div className="about-achievement">
+             <h1>30+</h1>
              <p>PROJECT COMPLETED</p>
            </div>
          </div>
