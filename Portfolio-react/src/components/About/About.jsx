@@ -16,8 +16,8 @@ const About = () => {
            </div>
             <div className="about-right">
                 <div className="about-para">
-                   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque reiciendis totam accusantium at ex neque quibusdam deserunt ipsum in numquam quaerat doloremque exercitationem nihil ipsam, nobis sapiente aspernatur soluta? Dolorem?</p>
-                   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis non est numquam inventore, earum consequuntur optio nesciunt laudantium rem molestiae.</p>
+                   <p>Passionate about leveraging technology to create innovative solutions and enhance user experiences, I am a dedicated Full Stack Developer with two years of hands-on experience in the dynamic field of web development. With a background in computer science and a natural curiosity for exploring new technologies, I thrive in fast-paced environments where collaboration and creativity are valued.</p>
+                   <p>As a web developer, I am driven by a desire to make a positive impact through technology, and I am excited about the opportunities that lie ahead to leverage my skills and expertise to create meaningful solutions that empower users and drive business success.</p>
                 </div>
                  <div className="about-skills">
                    <div className="about-skill">
