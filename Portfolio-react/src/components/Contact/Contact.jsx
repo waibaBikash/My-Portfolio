@@ -50,7 +50,7 @@ const Contact = () => {
                 </div>
                 <div className="contact-detail">
                   <img src={location_icon} alt="" />
-                  <p>Kensington Rd, Summer Hill,NSW,Australia</p>
+                  <p>Kensington Rd, Summer Hill,2130,NSW,Australia</p>
                 </div>
              </div>
            </div>
